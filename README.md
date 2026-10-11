@@ -39,3 +39,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ShakarovDev&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakarovDev&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
+---
+
+### 📫 Contact Me
+* ✈️ **Telegram**: [@TAJIKBRACHA](https://t.me/TAJIKBRACHA)
+* 💬 **Discord**: [@1102166838860861491](https://discord.com/users/1102166838860861491
