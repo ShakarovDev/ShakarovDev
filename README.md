@@ -42,5 +42,7 @@
 ---
 
 ### 📫 Contact Me
-* ✈️ **Telegram**: [@TAJIKBRACHA](https://t.me/TAJIKBRACHA)
-* 💬 **Discord**: [@1102166838860861491](https://discord.com/users/1102166838860861491
+<p align="center">
+  <a href="https://t.me/TAJIKBRACHA"><img src="https://img.shields.io/badge/TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://discord.com/users/1102166838860861491"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
