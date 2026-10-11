@@ -1,7 +1,8 @@
 # Hi there, I'm Shakarov Adilkhan 👋
 
 <p align="center">
-  <img src="https://c.tenor.com/b4f0EeG3nQ4AAAAd/tenor.gif" width="450" />
+  <img src="<img width="498" height="472" alt="ezgif-6f73d46f13df0b54" src="https://github.com/user-attachments/assets/bbafb2c6-c83e-474a-bc0e-b804f01043de" />
+" width="450" />
 </p>
 
 ### 🎯 About Me
