@@ -6,10 +6,10 @@
 
 ### 🎯 About Me
 
-* 🧑‍💻 **Who am I**: 15 y.o. Self-Taught Fullstack Developer | 9th Grade[cite: 6]
-* 🌍 **Adaptive**: Moved across 4+ cities in Kazakhstan[cite: 6]
-* ⚡ **Discipline**: Self-taught via YouTube & AI | Working on high GPA & high IELTS score[cite: 6]
-* 🎯 **Goal**: To study at a Polish university and become a Mid Backend or Fullstack developer[cite: 6]
+* 🧑‍💻 **Who am I**: 15 y.o. Self-Taught Fullstack Developer | 9th Grade
+* 🌍 **Adaptive**: Moved across 4 cities in Kazakhstan
+* ⚡ **Discipline**: Self-taught via YouTube & AI | Working on high GPA & high IELTS score
+* 🎯 **Goal**: To study at a Polish university and become a Mid Backend or Fullstack developer
 
 ---
 
@@ -27,6 +27,10 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PuTTY](https://img.shields.io/badge/PuTTY-000000?style=for-the-badge&logo=putty&logoColor=white)
+![Hoster.kz](https://img.shields.io/badge/Hoster.kz-1E88E5?style=for-the-badge&logo=server&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
